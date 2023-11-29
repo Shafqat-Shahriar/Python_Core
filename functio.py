@@ -6,3 +6,7 @@ for x in fruits:
 
 for x in range(6):
   print(x)
+  
+  
+for x in range(2, 30, 3):  #start, end, step_size
+  print(x)
